@@ -1,0 +1,54 @@
+.content{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 40px;
+    
+    
+
+}
+img{
+    width: 100%;
+}
+.d1{
+    width: 47%;
+    box-shadow: 00px 5px 5px gray;
+}
+.content h2{
+    font-family: sans-serif;
+    padding-left: 10px;
+}
+.f{
+    
+    height: 30vh;
+    background-color: crimson;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.f h1{
+    font-family: sans-serif;
+    padding-top: 20px;
+}
+.f input{
+    font-family: sans-serif;
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+    background: crimson;
+    color: white;
+    opacity: 0.6;
+    padding-left: 10px;
+}
+.button{
+    margin-left: 10px;
+    height: 38px;
+    color: white;
+    border-color: white;
+    width: 100px;
+    background: crimson;
+    
+}
